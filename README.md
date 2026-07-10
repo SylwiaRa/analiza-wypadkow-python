@@ -18,3 +18,6 @@ Głównym celem było zbadanie trendów oraz zależności pomiędzy liczbą wypa
 
 ---
 **Autor:** [Sylwia Ratyńska / SylwiaRa]
+
+## Wizualizacja danych
+<img width="606" height="362" alt="wykres" src="https://github.com/user-attachments/assets/8ef60952-f7cf-4a6f-8fe5-a65b71636fb3" />
