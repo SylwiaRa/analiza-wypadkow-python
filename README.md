@@ -16,8 +16,8 @@ Głównym celem było zbadanie trendów oraz zależności pomiędzy liczbą wypa
 * Wykres typu `kind="bar"` pozwolił zestawić liczbę zdarzeń drogowych z podziałem na osi czasu (kolumna `quarter`).
 * Wizualizacja ułatwia szybką identyfikację kwartałów, w których dochodziło do największej liczby niebezpiecznych wypadków.
 
----
-**Autor:** [Sylwia Ratyńska / SylwiaRa]
-
 ## Wizualizacja danych
 <img width="606" height="362" alt="wykres" src="https://github.com/user-attachments/assets/8ef60952-f7cf-4a6f-8fe5-a65b71636fb3" />
+
+---
+**Autor:** [Sylwia Ratyńska / SylwiaRa]
